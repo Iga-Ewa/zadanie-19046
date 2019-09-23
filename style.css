@@ -1,0 +1,82 @@
+.aboutus {
+    color:rgb(0, 132, 255)
+}
+.skills { 
+    color:rgb(0, 255, 136)
+}
+.portfolio 
+{
+    color:rgb(235, 155, 231)
+}
+.contact {
+    color:rgb(243, 196, 108)
+}
+.aboutus-bg { 
+    background-color:rgb(115, 255, 0)
+}
+
+.square1 {
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 0px;
+    display: inline-block;
+}
+
+.square2 {
+    background:yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.square3 {
+    background:yellowgreen;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.square4 {
+    background:rgb(138, 111, 199);
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.square5 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: block;
+    border: 5px solid green;
+}
+
+.square6 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: block;
+    border: 5px solid red;
+}
+
+.square7 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: block;
+    border: 5px solid blue;
+}
+
+input[type=submit] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border: 5px solid blue;
+        background:rgb(138, 111, 199);
+}
